@@ -19,8 +19,8 @@ Complete configuration of a Windows 10 client joined to a Windows Server 2022 do
 
 ## 📚 Language / Lingua
 
-* 🇬🇧 [English version](#-english-version)
-* 🇮🇹 [Versione italiana](#-versione-italiana)
+* 🇬🇧 [English version](#english-version)
+* 🇮🇹 [Versione italiana](#versione-italiana)
 
 ---
 
